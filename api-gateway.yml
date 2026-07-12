@@ -52,6 +52,7 @@ spring:
                        /api/specialty/**,
                        /api/student/**,
                        /api/teacher/**,
+                       /api/resolution/**,
                        /api/report/teacher/**,
                        /api/turno/**
             
